@@ -1,5 +1,5 @@
 # MixingBoard
 
 ## Controls
-- Tapping in visualization toggles overlay.
+- Tapping on visualization toggles controls overlay.
 - Select a different visualization or control by swiping left/right.
